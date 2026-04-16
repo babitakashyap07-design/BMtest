@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 49" width="48" height="49">
+	<title>angle-hover-svg</title>
+	<style>
+		.s0 { fill: #b74a02 } 
+		.s1 { fill: none;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3 } 
+	</style>
+	<g id="Icon">
+		<path id="Ellipse 875" class="s0" d="m25 9.1c-8.3 0-15 6.7-15 15 0 8.3 6.7 15 15 15 8.3 0 15-6.7 15-15 0-8.3-6.7-15-15-15z"/>
+		<path id="Vector" fill-rule="evenodd" class="s1" d="m17 27.1l8-8 8 8"/>
+	</g>
+</svg>

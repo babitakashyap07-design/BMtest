@@ -1,0 +1,40 @@
+$primary:#0062EE;
+$secondary:#004EBE;
+$red:#F40009;
+$yellow:#FFCA00;
+$darkblue:#040273;
+$lightblue:#A4EAFF;
+$black:#000;
+$white:#ffffff;
+$maroon: #8E1921;
+$maroonhr: #72141A;
+
+
+$green:#024310;
+$lightgreen:#035414;
+
+
+
+
+$defultbg:#E7E7E7;
+$primarybg:#F2F2F2;
+$secondarybg:#777777;
+
+
+$tertiarybg:linear-gradient(278deg, rgba(209, 106, 38, 0.25) 15.5%, rgba(79, 38, 131, 0.25) 76.28%, rgba(37, 16, 64, 0.25) 97.36%);
+
+
+// color paltte - 
+$colors:( "primary":$primary, "secondary":$secondary, "green":#008943, "black":#000000, "lightgray":#F7F7F7);
+.test-btn {
+    background-color: map-get($colors, "blue");
+}
+
+@mixin fancy-border($size:1px, $color:#000) {
+    border: $size solid $color;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

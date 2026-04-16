@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icons - Light" clip-path="url(#clip0_8277_3883)">
+<path id="Vector" d="M8 14V5C8 4.73478 8.10536 4.48043 8.29289 4.29289C8.48043 4.10536 8.73478 4 9 4H23C23.2652 4 23.5196 4.10536 23.7071 4.29289C23.8946 4.48043 24 4.73478 24 5V14" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M12 8H14" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M27 14C27 16.9174 25.8411 19.7153 23.7782 21.7782C21.7153 23.8411 18.9174 25 16 25C13.0826 25 10.2847 23.8411 8.22183 21.7782C6.15893 19.7153 5 16.9174 5 14H27Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M11.5525 24.0637L11.01 27.8587C10.9898 28.0005 11.0003 28.1451 11.0407 28.2825C11.0812 28.4199 11.1507 28.547 11.2446 28.6552C11.3385 28.7635 11.4545 28.8502 11.5848 28.9097C11.7152 28.9692 11.8568 29 12 29H20C20.1433 29 20.2849 28.9692 20.4152 28.9097C20.5455 28.8502 20.6616 28.7635 20.7554 28.6552C20.8493 28.547 20.9188 28.4199 20.9593 28.2825C20.9998 28.1451 21.0103 28.0005 20.99 27.8587L20.4475 24.0637" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_8277_3883">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>

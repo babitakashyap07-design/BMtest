@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icons - Light" clip-path="url(#clip0_8277_3904)">
+<path id="Vector" d="M17.3177 18.6825C13.3277 12.0313 18.6477 5.3813 29.954 6.0463C30.6252 17.3525 23.969 22.6725 17.3177 18.6825Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M11.0586 20.0587C13.9086 15.3087 10.1086 10.5587 2.0324 11.0325C1.5574 19.1087 6.30865 22.9087 11.0586 20.0587Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M7 16L15 24" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M25 11L17.3438 18.6562C16.6007 19.3991 16.0113 20.2811 15.6091 21.2519C15.207 22.2226 15 23.263 15 24.3137V28" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_8277_3904">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>

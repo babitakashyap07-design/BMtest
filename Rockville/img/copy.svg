@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icons - Light" clip-path="url(#clip0_6022_9400)">
+<path id="Vector" d="M26.25 35H8.75C8.41848 35 8.10054 34.8683 7.86612 34.6339C7.6317 34.3995 7.5 34.0815 7.5 33.75V11.25C7.5 10.9185 7.6317 10.6005 7.86612 10.3661C8.10054 10.1317 8.41848 10 8.75 10H21.25L27.5 16.25V33.75C27.5 34.0815 27.3683 34.3995 27.1339 34.6339C26.8995 34.8683 26.5815 35 26.25 35Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M12.5 10V6.25C12.5 5.91848 12.6317 5.60054 12.8661 5.36612C13.1005 5.1317 13.4185 5 13.75 5H26.25L32.5 11.25V28.75C32.5 29.0815 32.3683 29.3995 32.1339 29.6339C31.8995 29.8683 31.5815 30 31.25 30H27.5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M13.75 23.75H21.25" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M13.75 28.75H21.25" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_6022_9400">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>
